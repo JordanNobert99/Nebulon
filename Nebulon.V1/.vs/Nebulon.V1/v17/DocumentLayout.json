@@ -1,14 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Jordan\\Documents\\NobertStudiosMG\\NobertStudiosMG\\Nebulon\\Nebulon.V1\\",
+  "WorkspaceRootPath": "C:\\Users\\Jordan\\Documents\\NobertStudiosMG\\Nebulon\\Nebulon.V1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8868E750-69B9-41C2-9207-2F547EE034A6}|Nebulon.V1.csproj|c:\\users\\jordan\\documents\\nobertstudiosmg\\nobertstudiosmg\\nebulon\\nebulon.v1\\gameloop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8868E750-69B9-41C2-9207-2F547EE034A6}|Nebulon.V1.csproj|solutionrelative:gameloop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8868E750-69B9-41C2-9207-2F547EE034A6}|Nebulon.V1.csproj|c:\\users\\jordan\\documents\\nobertstudiosmg\\nebulon\\nebulon.v1\\source\\gameloop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8868E750-69B9-41C2-9207-2F547EE034A6}|Nebulon.V1.csproj|solutionrelative:source\\gameloop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8868E750-69B9-41C2-9207-2F547EE034A6}|Nebulon.V1.csproj|c:\\users\\jordan\\documents\\nobertstudiosmg\\nobertstudiosmg\\nebulon\\nebulon.v1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8868E750-69B9-41C2-9207-2F547EE034A6}|Nebulon.V1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8868E750-69B9-41C2-9207-2F547EE034A6}|Nebulon.V1.csproj|c:\\users\\jordan\\documents\\nobertstudiosmg\\nebulon\\nebulon.v1\\source\\scenes\\scenemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8868E750-69B9-41C2-9207-2F547EE034A6}|Nebulon.V1.csproj|solutionrelative:source\\scenes\\scenemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8868E750-69B9-41C2-9207-2F547EE034A6}|Nebulon.V1.csproj|c:\\users\\jordan\\documents\\nobertstudiosmg\\nebulon\\nebulon.v1\\source\\scenes\\titlescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8868E750-69B9-41C2-9207-2F547EE034A6}|Nebulon.V1.csproj|solutionrelative:source\\scenes\\titlescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8868E750-69B9-41C2-9207-2F547EE034A6}|Nebulon.V1.csproj|c:\\users\\jordan\\documents\\nobertstudiosmg\\nebulon\\nebulon.v1\\source\\scenes\\scene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8868E750-69B9-41C2-9207-2F547EE034A6}|Nebulon.V1.csproj|solutionrelative:source\\scenes\\scene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8868E750-69B9-41C2-9207-2F547EE034A6}|Nebulon.V1.csproj|c:\\users\\jordan\\documents\\nobertstudiosmg\\nebulon\\nebulon.v1\\source\\tools\\windowscaler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8868E750-69B9-41C2-9207-2F547EE034A6}|Nebulon.V1.csproj|solutionrelative:source\\tools\\windowscaler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8868E750-69B9-41C2-9207-2F547EE034A6}|Nebulon.V1.csproj|c:\\users\\jordan\\documents\\nobertstudiosmg\\nebulon\\nebulon.v1\\source\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8868E750-69B9-41C2-9207-2F547EE034A6}|Nebulon.V1.csproj|solutionrelative:source\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +34,82 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TitleScene.cs",
+              "DocumentMoniker": "C:\\Users\\Jordan\\Documents\\NobertStudiosMG\\Nebulon\\Nebulon.V1\\Source\\Scenes\\TitleScene.cs",
+              "RelativeDocumentMoniker": "Source\\Scenes\\TitleScene.cs",
+              "ToolTip": "C:\\Users\\Jordan\\Documents\\NobertStudiosMG\\Nebulon\\Nebulon.V1\\Source\\Scenes\\TitleScene.cs",
+              "RelativeToolTip": "Source\\Scenes\\TitleScene.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAACUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T12:28:49.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SceneManager.cs",
+              "DocumentMoniker": "C:\\Users\\Jordan\\Documents\\NobertStudiosMG\\Nebulon\\Nebulon.V1\\Source\\Scenes\\SceneManager.cs",
+              "RelativeDocumentMoniker": "Source\\Scenes\\SceneManager.cs",
+              "ToolTip": "C:\\Users\\Jordan\\Documents\\NobertStudiosMG\\Nebulon\\Nebulon.V1\\Source\\Scenes\\SceneManager.cs",
+              "RelativeToolTip": "Source\\Scenes\\SceneManager.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T12:26:13.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Scene.cs",
+              "DocumentMoniker": "C:\\Users\\Jordan\\Documents\\NobertStudiosMG\\Nebulon\\Nebulon.V1\\Source\\Scenes\\Scene.cs",
+              "RelativeDocumentMoniker": "Source\\Scenes\\Scene.cs",
+              "ToolTip": "C:\\Users\\Jordan\\Documents\\NobertStudiosMG\\Nebulon\\Nebulon.V1\\Source\\Scenes\\Scene.cs",
+              "RelativeToolTip": "Source\\Scenes\\Scene.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T12:20:39.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WindowScaler.cs",
+              "DocumentMoniker": "C:\\Users\\Jordan\\Documents\\NobertStudiosMG\\Nebulon\\Nebulon.V1\\Source\\Tools\\WindowScaler.cs",
+              "RelativeDocumentMoniker": "Source\\Tools\\WindowScaler.cs",
+              "ToolTip": "C:\\Users\\Jordan\\Documents\\NobertStudiosMG\\Nebulon\\Nebulon.V1\\Source\\Tools\\WindowScaler.cs",
+              "RelativeToolTip": "Source\\Tools\\WindowScaler.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T11:26:35.347Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "GameLoop.cs",
-              "DocumentMoniker": "C:\\Users\\Jordan\\Documents\\NobertStudiosMG\\NobertStudiosMG\\Nebulon\\Nebulon.V1\\GameLoop.cs",
-              "RelativeDocumentMoniker": "GameLoop.cs",
-              "ToolTip": "C:\\Users\\Jordan\\Documents\\NobertStudiosMG\\NobertStudiosMG\\Nebulon\\Nebulon.V1\\GameLoop.cs",
-              "RelativeToolTip": "GameLoop.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Jordan\\Documents\\NobertStudiosMG\\Nebulon\\Nebulon.V1\\Source\\GameLoop.cs",
+              "RelativeDocumentMoniker": "Source\\GameLoop.cs",
+              "ToolTip": "C:\\Users\\Jordan\\Documents\\NobertStudiosMG\\Nebulon\\Nebulon.V1\\Source\\GameLoop.cs",
+              "RelativeToolTip": "Source\\GameLoop.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAADoAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-07T10:59:36.085Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Jordan\\Documents\\NobertStudiosMG\\NobertStudiosMG\\Nebulon\\Nebulon.V1\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Jordan\\Documents\\NobertStudiosMG\\NobertStudiosMG\\Nebulon\\Nebulon.V1\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Jordan\\Documents\\NobertStudiosMG\\Nebulon\\Nebulon.V1\\Source\\Program.cs",
+              "RelativeDocumentMoniker": "Source\\Program.cs",
+              "ToolTip": "C:\\Users\\Jordan\\Documents\\NobertStudiosMG\\Nebulon\\Nebulon.V1\\Source\\Program.cs",
+              "RelativeToolTip": "Source\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-07T10:59:33.043Z",
               "EditorCaption": ""

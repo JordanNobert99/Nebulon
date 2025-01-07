@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Nebulon.V1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f133cfae7bebd1b8122bcb8d243ada749d7f076a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+faf358f92bfb3138659e017bc783df551177aad0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Nebulon.V1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Nebulon.V1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
